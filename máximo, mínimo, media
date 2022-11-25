@@ -1,4 +1,6 @@
 Algoritmo max_min_med
+     definir maximo, minimo como entero
+     definir media como real
 	Escribir "Ingrese numeros"
 	leer num
 	minimo=num
