@@ -1,5 +1,6 @@
 Algoritmo edad_sexo
 	Definir horas, sueldo, dif_horas, tarifa_extra, Salario_extra, Sueldo_mes, Impuesto Como Entero
+	tarifa=50
 	Escribir "Introduce las horas de trabajo"
 	leer horas
 	si horas <= 35 Entonces
