@@ -14,7 +14,7 @@ Algoritmo ejercicio
 			Leer nt
 			si nt<=4 Entonces
 				re=np+npr+nt
-				Escribir  "Nota final de ",nom1," es igual a ",re
+				Escribir  "Nota final de ",nomb," es igual a ",re
 			Sino
 			Escribir  "Esta fuera de rango la nota teorica "
 			FinSi
