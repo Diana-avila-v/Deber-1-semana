@@ -1,4 +1,4 @@
-Algoritmo edad_sexo
+Algoritmo ejercicio8
 	Definir horas, sueldo, dif_horas, tarifa_extra, Salario_extra, Sueldo_mes, Impuesto Como Entero
 	tarifa=50
 	Escribir "Introduce las horas de trabajo"
