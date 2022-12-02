@@ -1,4 +1,4 @@
-Algoritmo numero_mayor
+Algoritmo ejercicio7
 	Definir edad Como Entero
 	Definir sexo Como Caracter
 	Repetir
